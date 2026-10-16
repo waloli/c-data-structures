@@ -1,8 +1,0 @@
-int main () {
-    list p = add(0.2,add(0.3,add(0.1,NULL )));
-    print(p);
-    list X = range(10, 0.1);
-    print(X);
-    list X = map(sin, X);
-    print X
-}
